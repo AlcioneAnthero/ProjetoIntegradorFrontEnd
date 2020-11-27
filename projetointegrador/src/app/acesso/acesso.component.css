@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Markazi+Text:wght@500&display=swap");
+.txt {
+  font-family: "Mulish", sans-serif;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+/* link que foi visitado */
+a:visited {
+  color: #fff;
+}
+/* quando o ponteiro do mouse passa no link */
+a:hover {
+  color: #999;
+}
+/* quando o link for selecionado */
+a:active {
+  color: #333;
+}
