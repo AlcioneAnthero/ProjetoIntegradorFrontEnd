@@ -1,2 +1,4 @@
 # ProjetoIntegradorFrontEnd
-Nessa pasta contém o Front-end completo do projeto integrador, realizado durante o curso da Generation Brasil. Empresa: DonateSkills. 
+Empresa: DonateSkills. 
+
+Uma comunidade brasileira de aprendizagem online para pessoas que desejam aprender com vídeos educacionais. Garantir o acesso à educação inclusiva, de qualidade e equitativa, e promover oportunidades de aprendizagem ao longo da vida para todos. Aulas gratuitas 100% online para aqueles que não possuem condições, contando com ajuda e suporte de colaboradores por meio de doações.
